@@ -1,0 +1,8 @@
+build/
+.dart_tool/
+.packages
+.pub/
+ios/Pods/
+android/.gradle/
+*.log
+.DS_Store
